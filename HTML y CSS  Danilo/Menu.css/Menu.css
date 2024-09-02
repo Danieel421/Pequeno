@@ -1,0 +1,29 @@
+.informacion {
+background-color: pink;
+}
+.titulo {
+font-family: fantasy;
+font-style: italic;
+text-align: center;
+color: white;
+background-color: black;
+border-radius: 20px;
+}
+img {
+ height: 200px; width: 200px;
+ border-radius: 50px 50px 50px 50px;
+}
+#razasPerros {
+background-color: skyBlue;
+}
+.pp {
+height: 100px; width: 100px;
+border-radius: 25px 25px 25px 25px;
+}
+.Milko {
+  height: 250px;
+  width: 200px;
+  }
+  body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
